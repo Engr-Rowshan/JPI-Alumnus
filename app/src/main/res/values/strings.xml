@@ -13,4 +13,15 @@
     <string name="team_image">Team Image</string>
     <string name="app_title">JPI Alumnus</string>
     <string name="version">version</string>
+    <string name="hint_technology">Which technology you were?</string>
+
+    <string-array name="technologies">
+        <item>Computer Technology</item>
+        <item>Civil Technology</item>
+        <item>Electrical Technology</item>
+        <item>Electrical Technology</item>
+        <item>Power Technology</item>
+        <item>Mechanical Technology</item>
+        <item>Telecommunication Technology</item>
+    </string-array>
 </resources>
