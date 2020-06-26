@@ -23,4 +23,10 @@ class RegisterActivity : AppCompatActivity() {
             findViewById(R.id.filled_exposed_dropdown)
         editTextFilledExposedDropdown.setAdapter(adapter)
     }
+
+    fun singIn(){
+        val providers = arrayListOf(
+            AuthUI.
+        )
+    }
 }
